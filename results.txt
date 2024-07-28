@@ -1,0 +1,8 @@
+Scan results for 192.168.68.150 (Ports 1-1024)
+Time started: 2024-07-28 08:31:46.463829
+
+Port    22: Open   - Service: ssh   - Banner: SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u4
+Port    80: Open   - Service: http   - Banner: None
+Port   443: Open   - Service: https   - Banner: None
+
+Time finished: 2024-07-28 08:31:46.463829
