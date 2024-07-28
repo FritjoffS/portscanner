@@ -1,0 +1,15 @@
+# conda env create -f environment.yml
+
+name: portscanner
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pyqt=5
+  - pip
+  - pip:
+    - socket
+    - datetime
+    - threading
+    - queue
